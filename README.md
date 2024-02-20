@@ -1,3 +1,5 @@
 # odin-recipes
 
-Quick project about recipes to get used to git and HTML workflow.
+Project about recipes for The Oding Project foundations course. 
+
+##### You can see the full webpage [**here**](https://aut1sticfr0g.github.io/odin-recipes/)
